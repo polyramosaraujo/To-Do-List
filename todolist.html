@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="To Do List">
+    <meta content="keywords" content="todolist">
+    <meta content="author" content="Polyana Ramos Araújo">
+    <link rel="stylesheet" href="todolist.css"></link>
+    <link rel="stylesheet" href="todolist-responsivo.css"></link>
+    <title>To Do List</title>
+</head>
+<body>
+    <main id="main">
+        <header id="header">
+            <h1>To Do List</h1>
+            <button class="tema" id="tema" onclick="tema()">
+                <img id="imagem" src="midia/lua.png">
+                <p>Tema</p>
+            </button>
+        </header>
+
+        <div class="campo">
+            <input id="campo" type="text" placeholder="Digite uma tarefa...">
+            <button class="adicionar" id="adicionar" onclick="adicionarTarefa()" onkeyup="adicionarTarefaEnter()">Adicionar</button>
+        </div>
+
+        <div class="tarefas" id="tarefas">
+        </div>
+    </main>
+
+    <script src="todolist.js"></script>
+</body>
+</html>
