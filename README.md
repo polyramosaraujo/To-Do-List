@@ -1,22 +1,21 @@
 # 📝 To Do List
 
-Este é um projeto simples de uma lista de tarefas desenvolvido com HTML, CSS e JavaScript. O objetivo é treinar habilidades em manipulação de DOM, funcionalidades CSS, responsividade, eventos JavaScript e práticas de organização e escrita de código limpo.
+This is a simple to-do list project developed with HTML, CSS, and JavaScript. The goal is to practice skills in DOM manipulation, CSS features, responsiveness, JavaScript events, and clean code organization and writing practices.
 
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Adicionar tarefas com botão e com a tecla Enter
-- Remover tarefas
-- Marcar tarefas como concluídas
-- Alternar entre tema claro e escuro
-- Responsivo para dispositivos móveis
+- Add tasks with button and Enter key
+- Remove tasks
+- Mark tasks as completed
+- Toggle between light and dark theme
+- Responsive for mobile devices
 
-
-## 📅 Última Atualização
+## 📅 Last Update
 
 14/04/2025
 
 
-## 👩‍💻 Autora
+## 👩‍💻 Author
 
 Polyana Ramos Araújo
